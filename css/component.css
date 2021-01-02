@@ -523,6 +523,15 @@ a.button3:hover{
 
 /* Social Media */
 
+
+.email-contact {
+	margin-top: 65px;
+}
+
+.social-media {
+	margin-top: 65px;
+}
+
 .fab, .fas {
 	margin: 35px 15px 15px 15px;
 	padding: 2px;
