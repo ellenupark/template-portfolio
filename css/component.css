@@ -494,7 +494,6 @@ a.button3:hover{
 }
 
 #profile-img {
-	padding-top: 20px;
 	border-radius: 10%;
 	max-width: 75%;
 }
@@ -566,5 +565,4 @@ h2 {
   and (min-device-width: 320px) 
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2) {
-
 }
