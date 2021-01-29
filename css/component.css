@@ -250,7 +250,7 @@ div.bl-panel-items > div {
 }
 
 div.bl-panel-items > div > div {
-	width: 40%;
+	width: 80%;
 	margin: 0 auto;
 	opacity: 1;
 	bottom: 90px;
@@ -270,7 +270,7 @@ div.bl-panel-items > div > div p {
 
 div.bl-panel-items > div > div img {
 	margin: 0 20px 20px 0;
-	max-width: 100%;
+	max-width: 60%;
 }
 
 div.bl-panel-items {
@@ -574,4 +574,7 @@ h2 {
   and (min-device-width: 320px) 
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2) {
+	div.bl-panel-items > div > div img {
+		max-width: 100%;
+	}
 }
